@@ -150,6 +150,8 @@ namespace M6_Dzianis_Dukhnou
         public void DeleteSentEmail()
         {
             //Open the sent Folder
+            this.driver.Navigate().Refresh();
+            WaitElement(By.XPath("//span[text() = 'Отправленные']"));
             this.driver.FindElement(By.XPath("//span[text() = 'Отправленные']"))
                 .Click();
 
