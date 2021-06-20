@@ -12,7 +12,8 @@ namespace M6_Dzianis_Dukhnou
         {
             LoginWithCredentials(userName, userPassword);
 
-            Assert.IsTrue(IsElementDisplayed(By.XPath($"//span[text() ='{userName}']")));
+            Assert.IsTrue(IsElementDisplayed(By.XPath($"//span[text() ='{userName}']")),
+                "Login is not successful");
         }
 
     }

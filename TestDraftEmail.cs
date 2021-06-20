@@ -30,7 +30,8 @@ namespace M6_Dzianis_Dukhnou
             LoginWithCredentials(userName, userPassword);
             CreateDraftEmail(emailTo, subject, message);
 
-            Assert.IsTrue(IsElementDisplayed(By.XPath($"//span[@Title = '{subject}']")));
+            Assert.IsTrue(IsElementDisplayed(By.XPath($"//span[@Title = '{subject}']")),
+                $"The draft email with {subject} is not in the list");
         }
 
         [Test]

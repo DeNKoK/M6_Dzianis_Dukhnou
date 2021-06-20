@@ -149,7 +149,7 @@ namespace M6_Dzianis_Dukhnou
 
         public void DeleteSentEmail()
         {
-            //Open the draft Folder
+            //Open the sent Folder
             this.driver.FindElement(By.XPath("//span[text() = 'Отправленные']"))
                 .Click();
 
