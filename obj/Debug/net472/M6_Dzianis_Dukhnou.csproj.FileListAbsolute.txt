@@ -1,0 +1,17 @@
+C:\Users\Dzianis_Dukhnou\source\repos\M6_Dzianis_Dukhnou\bin\Debug\net472\NUnit3.TestAdapter.dll
+C:\Users\Dzianis_Dukhnou\source\repos\M6_Dzianis_Dukhnou\bin\Debug\net472\NUnit3.TestAdapter.pdb
+C:\Users\Dzianis_Dukhnou\source\repos\M6_Dzianis_Dukhnou\bin\Debug\net472\nunit.engine.dll
+C:\Users\Dzianis_Dukhnou\source\repos\M6_Dzianis_Dukhnou\bin\Debug\net472\nunit.engine.api.dll
+C:\Users\Dzianis_Dukhnou\source\repos\M6_Dzianis_Dukhnou\bin\Debug\net472\M6_Dzianis_Dukhnou.dll
+C:\Users\Dzianis_Dukhnou\source\repos\M6_Dzianis_Dukhnou\bin\Debug\net472\M6_Dzianis_Dukhnou.pdb
+C:\Users\Dzianis_Dukhnou\source\repos\M6_Dzianis_Dukhnou\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Dzianis_Dukhnou\source\repos\M6_Dzianis_Dukhnou\bin\Debug\net472\nunit.framework.dll
+C:\Users\Dzianis_Dukhnou\source\repos\M6_Dzianis_Dukhnou\bin\Debug\net472\WebDriver.Support.dll
+C:\Users\Dzianis_Dukhnou\source\repos\M6_Dzianis_Dukhnou\bin\Debug\net472\WebDriver.dll
+C:\Users\Dzianis_Dukhnou\source\repos\M6_Dzianis_Dukhnou\obj\Debug\net472\M6_Dzianis_Dukhnou.AssemblyInfoInputs.cache
+C:\Users\Dzianis_Dukhnou\source\repos\M6_Dzianis_Dukhnou\obj\Debug\net472\M6_Dzianis_Dukhnou.AssemblyInfo.cs
+C:\Users\Dzianis_Dukhnou\source\repos\M6_Dzianis_Dukhnou\obj\Debug\net472\M6_Dzianis_Dukhnou.csproj.CoreCompileInputs.cache
+C:\Users\Dzianis_Dukhnou\source\repos\M6_Dzianis_Dukhnou\obj\Debug\net472\M6_Dzianis_Dukhnou.csproj.CopyComplete
+C:\Users\Dzianis_Dukhnou\source\repos\M6_Dzianis_Dukhnou\obj\Debug\net472\M6_Dzianis_Dukhnou.dll
+C:\Users\Dzianis_Dukhnou\source\repos\M6_Dzianis_Dukhnou\obj\Debug\net472\M6_Dzianis_Dukhnou.pdb
+C:\Users\Dzianis_Dukhnou\source\repos\M6_Dzianis_Dukhnou\obj\Debug\net472\M6_Dzianis_Dukhnou.csprojAssemblyReference.cache
